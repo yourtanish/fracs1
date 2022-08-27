@@ -1,0 +1,24 @@
+body 
+{
+    margin:0; padding:0px;
+    background-color: black;
+    user-select: none;
+}
+h2,h6
+{
+    color: white; text-align: center;
+    text-indent:20px;
+}
+canvas
+{   display:block ;
+    position:relative ;
+    margin:auto;
+    margin-top:0; margin-bottom:0;
+    background-color: black;
+}
+hr
+{
+    width:80%; height:1px;
+    background-color: white;
+}
+
